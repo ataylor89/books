@@ -79,14 +79,15 @@ I plan to add more over time.
     - On First Looking into Chapman's Homer
     - Ode to a Nightingale
     - Ode on a Grecian Urn
-3. T.S. Eliot
+3. Lyrical Ballads by Wordsworth and Coleridge
+4. T.S. Eliot
     - Journey of the Magi
     - The Love Song of J. Alfred Prufrock
     - I want to read "The Waste Land" one day
-4. Robert Frost
+5. Robert Frost
     - The Road Not Taken
     - Fire and Ice
-5. W.H. Auden
+6. W.H. Auden
     - Funeral Blues
 7. W.B. Yeats
     - The Second Coming
