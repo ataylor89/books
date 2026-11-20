@@ -47,6 +47,7 @@ I plan to add more over time.
 6. Plato's Euthyphro, Apology, Crito, Phaedo
 7. Euclid's Elements
 8. The complete works of Archimedes
+9. Meditations by Marcus Aurelius
 
 ## Latin
 
