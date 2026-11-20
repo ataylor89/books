@@ -71,7 +71,7 @@ I plan to add more over time.
 
 ## Poets and poetry
 
-1. Shakespeare
+1. William Shakespeare
     - He wrote his plays in iambic pentameter
     - He wrote fourteen-line sonnets in iambic pentameter
     - His sonnets have a rhyme scheme of ababcdcdefefgg
