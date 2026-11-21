@@ -120,3 +120,11 @@ I plan to add more over time.
 4. Winning Chess Strategies by Yasser Seirawan
 5. Endgame Workshop by Bruce Pandolfini
 6. Dvoretsky's Endgame Manual
+
+## Computer Science
+
+1. The C Programming Language by Kernighan and Ritchie
+
+## Research Publications
+1. A Method for Obtaining Digital Signatures and Public-Key Cryptosystems by R.L. Rivest, A. Shamir, and L. Adleman
+2. Quicksort by C.A.R. Hoare
