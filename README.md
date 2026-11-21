@@ -30,6 +30,7 @@ I plan to add more over time.
 14. Jane Eyre by Charlotte Bronte
 15. White Fang by Jack London
 16. The Call of the Wild by Jack London
+17. The Portrait of a Lady by Henry James
 
 ## Religion and philosophy
 
@@ -111,6 +112,7 @@ I plan to add more over time.
 4. Analysis I by Terence Tao
 5. Euclid's Elements
 6. The Works of Archimedes by Sir Thomas Little Heath
+7. How To Solve It by George Pólya
 
 ## Chess
 
