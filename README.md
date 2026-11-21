@@ -28,6 +28,8 @@ I plan to add more over time.
 12. David Copperfield by Charles Dickens
 13. A Portrait of the Artist as a Young Man by James Joyce
 14. Jane Eyre by Charlotte Bronte
+15. White Fang by Jack London
+16. The Call of the Wild by Jack London
 
 ## Religion and philosophy
 
@@ -52,9 +54,12 @@ I plan to add more over time.
 ## Latin
 
 1. The Vulgate Bible
-2. Ovid's Metamorphoses
-3. Virgil's Aeneid
-4. Saint Augustine's Confessions
+2. Wheelock's Latin
+3. Learn to Read Latin by Keller and Russell
+4. Thirty-Eight Latin Stories by Groton and May
+5. Ovid's Metamorphoses
+6. Virgil's Aeneid
+7. Saint Augustine's Confessions
 
 ## Biblical Hebrew
 
