@@ -103,6 +103,10 @@ I plan to add more over time.
 10. Ovid's Metamorphoses
 11. Virgil's Aeneid
 12. Beowulf
+13. John Milton
+    - Paradise Lost
+14. John Donne
+    - No man is an island
 
 ## Mathematics
 
