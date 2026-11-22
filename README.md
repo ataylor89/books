@@ -31,6 +31,7 @@ I plan to add more over time.
 15. White Fang by Jack London
 16. The Call of the Wild by Jack London
 17. The Portrait of a Lady by Henry James
+18. The Sound and the Fury by William Faulkner
 
 ## Religion and philosophy
 
